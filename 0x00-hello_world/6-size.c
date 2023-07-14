@@ -1,4 +1,6 @@
 #include<stdio.h>
+/*Program shows the size of variable types in C */
+
 int main(void)
 {
 printf("Size of a char: %ld byte(s)\n", sizeof(char));
