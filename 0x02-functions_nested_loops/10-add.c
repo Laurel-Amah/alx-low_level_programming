@@ -1,7 +1,5 @@
 #include "main.h"
 
-#include "holberton.h"
-
 /**
  * add - Adds two integers.
  * @num1: The first integer to be added.
