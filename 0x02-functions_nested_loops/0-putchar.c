@@ -1,4 +1,4 @@
-#include "main.h"
+#include "master.h"
 /**
  * main - Prints "_putchar" followed by a new line.
  *
