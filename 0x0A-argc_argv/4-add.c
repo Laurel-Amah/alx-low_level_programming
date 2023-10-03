@@ -2,12 +2,13 @@
 #include <stdlib.h>
 
 /**
- * main - adds positive numbers followed by a new line
- * @argc - The number of arguments that are supplied to the program
- * @argv - An array of pointers to the arguments
+ * main - Prints the addition of positive numbers,
+ *        followed by a new line.
+ * @argc: The number of arguments passed to the program.
+ * @argv: An array of pointers to the arguments.
  *
- * Return - 1 if one of the number contains symbols that are not digits.
- * 	0 otherwise.
+ * Return: If one of the numbers contains symbols that are non-digits - 1.
+ *         Otherwise - 0.
  */
 int main(int argc, char *argv[])
 {
